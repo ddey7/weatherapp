@@ -1,0 +1,12 @@
+.form-outline {
+  width: 100% !important;
+  #searchQuery {
+    padding: 10px 20px;
+    border-radius: 85px;
+    background: #ffffff;
+    box-shadow: 3px 3px 5px #c4c4c4, -3px -3px 5px #9c9c9c;
+    outline: none;
+    border: none;
+    width: 95% !important;
+  }
+}
